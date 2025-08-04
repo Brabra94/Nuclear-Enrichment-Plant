@@ -1,0 +1,16 @@
+{
+    "name": "Nuclear_Enrichment_Plant",
+    "version": "0.1.0",
+    "title": "Nuclear Enrichment Plant",
+    "author": "Azertyyu",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0",
+        "? space-age",
+        "? bzcarbon",
+        "? bzsilicon",
+        "? bztitanium",
+        "? bzzirconium"
+    ],
+    "description": "Advanced nuclear enrichment facility with risk management system. Features nuclear accidents, radioactive waste processing, and safety modules. Master nuclear energy through strategic risk management and technological progression."
+} 

@@ -1,0 +1,28 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 06/06/2024
+
+INITIAL RELEASE:
+• Nuclear Enrichment Plant - Advanced nuclear enrichment facility with risk management
+• Uranium enrichment process with 40% nuclear accident risk per cycle
+• Radioactive waste processing through vitrification and filtration
+• Safety modules (Tier 1, 2, 3) to reduce accident risks with production penalties
+• Complete waste management chain: Radioactive Waste → Vitrified Sand → Clean Sand
+• Space Age compatibility with advanced materials and science packs
+• BZ mods compatibility (bztitanium, bzsilicon, bzzirconium, bzcarbon)
+• Full localization support (French, English)
+
+FEATURES:
+• Nuclear Enrichment Plant entity with 4 module slots
+• Uranium enrichment recipe with radioactive waste byproduct
+• Waste vitrification and sand filtration processes
+• Three-tier safety module system with risk reduction
+• Advanced technology tree with proper prerequisites
+• Comprehensive fluid system for waste management
+
+COMPATIBILITY:
+• Space Age: Advanced materials and science packs integration
+• BZ Mods: Material substitution and enhancement
+• Base game: Full integration with nuclear power systems
+
+--------------------------------------------------------------------------------------------------- 
